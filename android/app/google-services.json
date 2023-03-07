@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "181192360535",
+    "project_id": "planto-app-263b6",
+    "storage_bucket": "planto-app-263b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181192360535:android:e290bb326e5e07a6665912",
+        "android_client_info": {
+          "package_name": "com.planto.planto_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181192360535-v9usu26ru851e4ctanmfvc7adae4jelj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdRThMo8NjhbWUcOmgZJLGZb-XPrwV2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181192360535-v9usu26ru851e4ctanmfvc7adae4jelj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181192360535-rtqcv7csd8nhqukehf6visrstogcgm9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.planto.plantoFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
